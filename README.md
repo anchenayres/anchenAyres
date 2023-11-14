@@ -61,6 +61,20 @@ Let's code the future together!
 
 <div align="center">
 
+<br></br>
+
+## Github Statistics
+
+---
+
+<a href="https://github.com/anchenayres">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anchenayres&show_icons=true&theme=transparent" />
+</a>
+
+<a href="https://github.com/anchenayres">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=anchenayres&show_icons=true&theme=transparent" />
+
+</a>
   
 ### Skills
 
