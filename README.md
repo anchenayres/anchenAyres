@@ -1,10 +1,7 @@
 <div align="center">
-  
-### Anchen Ayres
 
 <br></br>
-
-<img src="https://github.com/anchenayres/anchenAyres/assets/91013859/c93fce9f-b600-4396-9529-d7a981838af9" alt="profile" style="border-radius: 50%; width: 550px; height: 360px; object-fit: cover;">
+![Artboard 1](https://github.com/anchenayres/anchenAyres/assets/91013859/aba0a962-ff1f-4f65-a0c8-ec2f1eea5375)
 <br></br>
 
 ### Who Am I?
@@ -66,13 +63,15 @@ Let's code the future together!
 ---
 
 <a href="https://github.com/anchenayres">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anchenayres&show_icons=true&theme=transparent" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=anchenayres&show_icons=true&line_height=27&count_private=true&title_color=b3b7e4&text_color=f4829c&icon_color=f4829c&bg_color=ffffff" alt="Anchen's GitHub Stats" />
 </a>
 
 <a href="https://github.com/anchenayres">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=anchenayres&show_icons=true&theme=transparent" />
-
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anchenayres&hide=html,css&title_color=b3b7e4&text_color=b3b7e4&icon_color=f4829c&bg_color=ffffff" />
 </a>
+
+
+
 
   <br></br>
   
