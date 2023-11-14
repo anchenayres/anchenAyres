@@ -9,11 +9,58 @@ I am currently a third-year interactive development student at Open Window showc
 
 Let's code the future together!
 
-
-
-
-
 </div>
+
+# Portfolio Project Repositories
+
+[![GitHub repo size](https://img.shields.io/github/repo-size/anchenayres/termOneProject)](https://github.com/anchenayres/termOneProject)
+[![GitHub stars](https://img.shields.io/github/stars/anchenayres/termOneProject)](https://github.com/anchenayres/termOneProject)
+
+ Term 1 - [CoffeeBean](https://github.com/anchenayres/termOneProject.git)
+
+- Interactive Web Application to Manage Inventory.
+
+[![GitHub repo size](https://img.shields.io/github/repo-size/anchenayres/termTwoProject_2023)](https://github.com/anchenayres/termTwoProject_2023)
+[![GitHub stars](https://img.shields.io/github/stars/anchenayres/termTwoProject_2023)](https://github.com/anchenayres/termTwoProject_2023)
+
+ Term 2 - [ModelSearch](https://github.com/anchenayres/termTwoProject_2023.git)
+
+- Competition-Based Mobile Application.
+
+
+[![GitHub repo size](https://img.shields.io/github/repo-size/xviovx/Nova)](https://github.com/xviovx/Nova)
+[![GitHub stars](https://img.shields.io/github/stars/xviovx/Nova)](https://github.com/xviovx/Nova)
+
+ Term 3 - [Nova](https://github.com/xviovx/Nova.git)
+
+- A task management application with features like task creation, editing, and completion tracking.
+
+
+[![GitHub repo size](https://img.shields.io/github/repo-size/anchenayres/PlantSavvy)](https://github.com/anchenayres/PlantSavvy)
+[![GitHub stars](https://img.shields.io/github/stars/anchenayres/PlantSavvy)](https://github.com/anchenayres/PlantSavvy)
+
+ Term 4 - [PlantSavvy](https://github.com/anchenayres/PlantSavvy.git)
+
+- An intelligent chatbot powered by machine learning algorithms for natural language processing.
+
+
+
+### Github Repository Statistics
+
+### Skills
+
+- **JavaScript:** Advanced
+- **Python:** Beginner
+- **HTML, CSS:** Advanced
+- **React, Node.js:** Intermediate
+- **MongoDB, MySQL:** Advanced
+- **RESTful APIs:** Intermediate
+- **UXD:** Intermediate
+
+### Contact Information
+
+- **Email:** anchie.ayres@gmail.com
+- **Mobile Number:** 082 785 5552
 
 <!--
 **anchenayres/anchenAyres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
