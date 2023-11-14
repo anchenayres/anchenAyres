@@ -61,9 +61,7 @@ Let's code the future together!
 
 <div align="center">
 
-<br></br>
-
-## Github Statistics
+### Github Statistics
 
 ---
 
@@ -75,6 +73,8 @@ Let's code the future together!
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=anchenayres&show_icons=true&theme=transparent" />
 
 </a>
+
+  <br></br>
   
 ### Skills
 
@@ -90,7 +90,7 @@ Let's code the future together!
 - **RESTful APIs:** Intermediate
 - **UXD:** Intermediate
 
-<br></br>
+ <br></br>
 
 <div align="center">
   
