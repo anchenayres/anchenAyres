@@ -63,11 +63,11 @@ Let's code the future together!
 ---
 
 <a href="https://github.com/anchenayres">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=anchenayres&show_icons=true&line_height=27&count_private=true&title_color=b3b7e4&text_color=f4829c&icon_color=f4829c&bg_color=ffffff" alt="Anchen's GitHub Stats" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=anchenayres&show_icons=true&line_height=27&count_private=true&title_color=b3b7e4&text_color=f4829c&icon_color=b3b7e4&bg_color=ffffff" alt="Anchen's GitHub Stats" />
 </a>
 
 <a href="https://github.com/anchenayres">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anchenayres&hide=html,css&title_color=b3b7e4&text_color=b3b7e4&icon_color=f4829c&bg_color=ffffff" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anchenayres&hide=html,css&title_color=b3b7e4&text_color=b3b7e4&icon_color=f6a474&bg_color=ffffff" />
 </a>
 
 
