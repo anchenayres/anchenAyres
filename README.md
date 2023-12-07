@@ -1,6 +1,7 @@
 ![Artboard 1](https://github.com/anchenayres/anchenAyres/assets/91013859/aba0a962-ff1f-4f65-a0c8-ec2f1eea5375)
 <br></br>
-
+<div align="center">
+  
 ### Who Am I?
 <br></br>
 I am currently a third-year interactive development student at Open Window showcasing my portfolio work over the past year. I am a passionate and creative developer with a love for building innovative solutions. My journey in the world of coding began with a fascination for problem-solving and a commitment to creating meaningful projects. I am dedicated to continuous learning and improvement. My goal is to contribute to the tech community, collaborate on exciting projects, and make a positive impact through my work.
@@ -125,6 +126,7 @@ Website users are not aware (or do not care) that the information displayed orig
 
 - **Email:** anchie.ayres@gmail.com
 - **Mobile Number:** 082 785 5552
+- **CV:** [Download.pdf](https://github.com/anchenayres/anchenAyres/files/13606562/Download.pdf)
 
 <!--
 **anchenayres/anchenAyres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
