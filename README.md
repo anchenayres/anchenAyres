@@ -1,4 +1,4 @@
-<div align="center">
+![AnchenAyres_completeSlides](https://github.com/anchenayres/anchenAyres/assets/91013859/99f6731e-8d5b-4a17-b52c-5151ef3dcce1)<div align="center">
 
 <br></br>
 ![Artboard 1](https://github.com/anchenayres/anchenAyres/assets/91013859/aba0a962-ff1f-4f65-a0c8-ec2f1eea5375)
@@ -20,11 +20,13 @@ Let's code the future together!
 ---
 </div>
 
+[CoffeeBean](https://github.com/anchenayres/termOneProject.git)
+ 
 [![GitHub repo size](https://img.shields.io/github/repo-size/anchenayres/termOneProject)](https://github.com/anchenayres/termOneProject)
 ![GitHub language count](https://img.shields.io/github/languages/count/anchenayres/termOneProject)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/anchenayres/termOneProject)
 
- Term 1 - [CoffeeBean](https://github.com/anchenayres/termOneProject.git)
+![AnchenAyres_completeSlides4](https://github.com/anchenayres/anchenAyres/assets/91013859/0164f060-5a5d-4d8b-830f-c72ef1b01ff8)
 
 - Interactive Web Application to Manage Inventory.
 
@@ -32,27 +34,26 @@ Let's code the future together!
 ![GitHub language count](https://img.shields.io/github/languages/count/anchenayres/termTwoProject_2023)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/anchenayres/termTwoProject_2023)
 
- Term 2 - [ModelSearch](https://github.com/anchenayres/termTwoProject_2023.git)
-
-- Competition-Based Mobile Application.
-
+ [Nova](https://github.com/xviovx/Nova.git)
 
 [![GitHub repo size](https://img.shields.io/github/repo-size/xviovx/Nova)](https://github.com/xviovx/Nova)
 ![GitHub language count](https://img.shields.io/github/languages/count/xviovx/Nova)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/xviovx/Nova)
 
- Term 3 - [Nova](https://github.com/xviovx/Nova.git)
+![AnchenAyres_completeSlides](https://github.com/anchenayres/anchenAyres/assets/91013859/3d57157f-da54-47fb-a7b6-f05292bed7eb)
 
 - A task management application with features like task creation, editing, and completion tracking.
 
-
+[PlantSavvy](https://github.com/anchenayres/PlantSavvy.git)
+ 
 [![GitHub repo size](https://img.shields.io/github/repo-size/anchenayres/PlantSavvy)](https://github.com/anchenayres/PlantSavvy)
 ![GitHub language count](https://img.shields.io/github/languages/count/anchenayres/PlantSavvy)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/anchenayres/PlantSavvy)
 
- Term 4 - [PlantSavvy](https://github.com/anchenayres/PlantSavvy.git)
+ ![AnchenAyres_completeSlides2](https://github.com/anchenayres/anchenAyres/assets/91013859/ca17125f-8f45-47d2-bf0a-991a66b6ae58)
+An intelligent chatbot powered by machine learning algorithms for natural language processing.It is a mobile application which helps you identify and manage your plant collection. Whether you are a gardening enthusiast or just curious about the plants around you, this app provides the tools to explore, identify, and learn about plants. Machine Learning Model – The AI service uses a machine learning model that has been trained on a vast dataset of plant images. The model has learned to recognize different plant species and characteristics based on the input data.
 
-- An intelligent chatbot powered by machine learning algorithms for natural language processing.
+
 
 <br></br>
 
