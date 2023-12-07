@@ -1,4 +1,3 @@
-<br></br>
 ![Artboard 1](https://github.com/anchenayres/anchenAyres/assets/91013859/aba0a962-ff1f-4f65-a0c8-ec2f1eea5375)
 <br></br>
 
@@ -38,7 +37,7 @@ An intelligent chatbot powered by machine learning algorithms for natural langua
 
 ![AnchenAyres_completeSlides](https://github.com/anchenayres/anchenAyres/assets/91013859/3d57157f-da54-47fb-a7b6-f05292bed7eb)
 
-A task management application with features like task creation, editing, and completion tracking.
+Welcome to Nova, the management system for your creative web development agency. This project aims to streamline your agency's operations and help you manage your clients, staff, funds, and projects effectively. Nova is a comprehensive management system that empowers creative web development agencies to manage their projects, teams, and resources efficiently. It provides a centralized platform for overseeing client work, project progress, and collaboration, resulting in an organized and productive agency workflow.
 
 <br></br>
 
@@ -51,6 +50,18 @@ A task management application with features like task creation, editing, and com
 ![AnchenAyres_completeSlides3](https://github.com/anchenayres/anchenAyres/assets/91013859/9172a7b1-2a90-4812-9062-1195046ad788)
 
 As a team we were expected to build a full MERN stack application similar to Stack Overflow which would be used for the next generation of Open Window Development students. This application will allow students to post development based questions and answers, vote for the best solutions and earn points which will be benificial to their profile through badges, trophies and status.
+
+<br></br>
+
+[BreastCancerClinic](https://github.com/anchenayres/medical_term2.git)
+
+[![GitHub repo size](https://img.shields.io/github/repo-size/anchenayres/termOneProject)](https://github.com/anchenayres/medical_term2.git)
+![GitHub language count](https://img.shields.io/github/languages/count/anchenayres/medical_term2)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/anchenayres/medical_term2)
+
+![AnchenAyres_completeSlides5](https://github.com/anchenayres/anchenAyres/assets/91013859/a62524c4-7af5-4e96-b3f9-99d9200f0754)
+
+A create a web management system for a medical practice which receptionists could use to upload doctor and patient information. I implemented PHP, MySQL and react from which I could validate, authenticate and upload information regarding the platform. The world we live in today is a world of big data and people have trouble finding meaningful patterns within the expanse of information we mine, collect and store. Therefore, as a data driven developer, I have taken over the role of implementing a real-world data driven web application using a Solar System API. Within the web application I utilised Charts.js, implemented my own unique form of data visualisation which relates to the theme of the data set and used REACT to construct my front end.
 
 <br></br>
 
