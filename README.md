@@ -93,19 +93,20 @@ Website users are not aware (or do not care) that the information displayed orig
 
 <br></br>
   
-### Skills
+### Hard Skills
 
 ---
 
 </div>
 
-- **JavaScript:** Advanced
-- **Python:** Beginner
-- **HTML, CSS:** Advanced
-- **React, Node.js:** Intermediate
-- **MongoDB, MySQL:** Advanced
-- **RESTful APIs:** Intermediate
-- **UXD:** Intermediate
+- **Full-Stack Developer**
+- **JavaScript**
+- **Python**
+- **HTML, CSS**
+- **React, Node.js**
+- **MongoDB, MySQL**
+- **RESTful APIs**
+- **UXD**
 
  <br></br>
 
